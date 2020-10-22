@@ -1,5 +1,10 @@
 # Alpha-VR
 
+This is the code for paper "Correlation-aware Cooperative Multigroup Broadcast 360° Video Delivery Network: A Hierarchical Deep Reinforcement LearningApproach" 
+
+--Usage \
+Directly run bash.sh
+
 --Res_net \
 https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
 
