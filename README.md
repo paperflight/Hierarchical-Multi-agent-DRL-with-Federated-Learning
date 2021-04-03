@@ -1,4 +1,4 @@
-# Alpha-VR
+# Paper
 
 This is the code for paper "Correlation-aware Cooperative Multigroup Broadcast 360° Video Delivery Network: A Hierarchical Deep Reinforcement Learning Approach" 
 For any usage, please cite this paper.
